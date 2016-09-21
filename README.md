@@ -3,7 +3,8 @@ Lets you download any WordPress plugin from the terminal. Can be used to downloa
 
 # Usage
 1. download and upload `wppd.sh` to anywhere on your server or local environment
-2. run `sudo wppd.sh` and follow up.
+2. Make sure `wppd.sh` is executable: `sudo chmod +x wppd.sh`
+3. run `sudo wppd.sh` and follow up.
 
 You should enter the plugin name slug (e.g wordpress-seo for wordpress.org/plugins/wordpress-seo) in order to download the plugin.
 
