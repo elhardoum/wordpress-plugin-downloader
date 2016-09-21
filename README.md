@@ -10,6 +10,6 @@ You should enter the plugin name slug (e.g wordpress-seo for wordpress.org/plugi
 You should also cd to the directory where you want to save this download before calling the script.
 
 # Requirements
-Required packages: `curl` (used to check for the plugin SVN repository) and `zip` is optional.
+Required packages: `subversion` (for exporting the SVN repo), `curl` (used to check for the plugin SVN repository) and `zip` is optional.
 
 Thanks! This is acutally my first bash shell script and I learned few commands while setting up some cloud servers on DigitalOcean. A long way ahead :)
